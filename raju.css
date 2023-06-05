@@ -1,0 +1,144 @@
+* {
+    margin: 0px;
+    padding: 0%;
+}
+
+.div1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(13, 41, 41);
+    height: 85px;
+    font-family: monospace;
+    color: black;
+    position: fixed;
+    top: 0%;
+    width: 100%;
+    z-index: 1;
+}
+
+a {
+    font-size: 20px;
+    text-decoration: none;
+    padding-right: 40px;
+    color: rgb(212, 209, 202);
+    word-spacing: 1px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+a:hover {
+    color: white;
+}
+
+
+
+#div2 {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.664), rgba(0, 0, 0, 0.623)), url("img/wataap2.jpeg");
+    height: 700px;
+    font-size: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.div3 {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.164), rgba(0, 0, 0, 0.199)), url("img/imag1.jpg");
+    height: 350px;
+    width: 350px;
+    margin-top: 70px;
+    background-size: cover;
+    margin-bottom: 40px;
+    margin-left: 70px;
+}
+
+
+.div4 {
+    width: 350px;
+    margin-top: 80px;
+    margin: 90px;
+}
+
+.div5 {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.prod {
+    text-align: center;
+    font-size: 60px;
+}
+
+.pro {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.pro3 {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+
+.pro4 {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+    font-weight: 90px;
+    align-items: center;
+}
+
+.pad {
+    padding-top: 10px;
+    padding-left: 40px;
+}
+
+.pad2 {
+    padding-top: 10px;
+    padding-left: 70px;
+}
+
+#last {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.last1 {
+    background-color: rgb(255, 255, 255);
+    margin-top: 200px;
+    height: 200px;
+    width: 650px;
+    padding-left: 40px;
+    padding-top: 10px;
+    border-radius: 0% 80px 80px 80px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.last2 {
+    text-align: center;
+    border: 2px solid black;
+    margin-top: 130px;
+    margin-right: 50px;
+}
+
+.divl {
+    padding-top: 30px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding-left: 30px;
+}
+
+#foot {
+    color: white;
+    background-color: rgb(34, 33, 33);
+    height: 420px;
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.span:hover {
+    color: transparent;
+}
